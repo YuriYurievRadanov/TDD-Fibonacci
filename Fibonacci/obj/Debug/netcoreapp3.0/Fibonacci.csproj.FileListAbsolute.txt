@@ -1,0 +1,11 @@
+D:\InterviewS\PREPARING\TDD-Fibonacci\Fibonacci\bin\Debug\netcoreapp3.0\Fibonacci.exe
+D:\InterviewS\PREPARING\TDD-Fibonacci\Fibonacci\bin\Debug\netcoreapp3.0\Fibonacci.deps.json
+D:\InterviewS\PREPARING\TDD-Fibonacci\Fibonacci\bin\Debug\netcoreapp3.0\Fibonacci.runtimeconfig.json
+D:\InterviewS\PREPARING\TDD-Fibonacci\Fibonacci\bin\Debug\netcoreapp3.0\Fibonacci.runtimeconfig.dev.json
+D:\InterviewS\PREPARING\TDD-Fibonacci\Fibonacci\bin\Debug\netcoreapp3.0\Fibonacci.dll
+D:\InterviewS\PREPARING\TDD-Fibonacci\Fibonacci\bin\Debug\netcoreapp3.0\Fibonacci.pdb
+D:\InterviewS\PREPARING\TDD-Fibonacci\Fibonacci\obj\Debug\netcoreapp3.0\Fibonacci.csprojAssemblyReference.cache
+D:\InterviewS\PREPARING\TDD-Fibonacci\Fibonacci\obj\Debug\netcoreapp3.0\Fibonacci.AssemblyInfoInputs.cache
+D:\InterviewS\PREPARING\TDD-Fibonacci\Fibonacci\obj\Debug\netcoreapp3.0\Fibonacci.AssemblyInfo.cs
+D:\InterviewS\PREPARING\TDD-Fibonacci\Fibonacci\obj\Debug\netcoreapp3.0\Fibonacci.dll
+D:\InterviewS\PREPARING\TDD-Fibonacci\Fibonacci\obj\Debug\netcoreapp3.0\Fibonacci.pdb
